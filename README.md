@@ -1,4 +1,4 @@
-# famad-bootstrap-form-element-counter
+# Famad Bootstrap Inputs value Counter
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![rangeslider.js](http://img.shields.io/badge/rangeslider-.js-00ff00.svg)](http://andreruffert.github.io/rangeslider.js/) [![Build Status](https://travis-ci.org/andreruffert/rangeslider.js.svg?branch=develop)](https://travis-ci.org/andreruffert/rangeslider.js) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/andreruffert/rangeslider.js)
 
 > Simple, small and fast JavaScript/jQuery/Bootstrap Form Elements Counter.
