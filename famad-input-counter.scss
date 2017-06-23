@@ -1,0 +1,13 @@
+/* Scss Document */
+$primary-color: white;
+
+.famad-input-counter {
+	.progress {
+		span {
+			position: absolute;
+			display: block;
+			width: 100%;
+			color: $primary-color;
+		}
+	}
+}
