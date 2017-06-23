@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,mBAAmB;AAKjB,mCAAK;EACJ,QAAQ,EAAE,QAAQ;EAClB,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,IAAI;EACX,KAAK,EARQ,KAAK",
-"sources": ["famad-input-counter.scss"],
-"names": [],
-"file": "famad-input-counter.css"
-}
